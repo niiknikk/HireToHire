@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Poppins:wght@300;400;500&family=Roboto:wght@300;400&display=swap');
+
+$ff-lato: 'Lato', sans-serif;
+$ff-poppins:'Poppins', sans-serif;
+$ff-roboto: 'Roboto', sans-serif;
+
+$color-primary-blue-dark: rgb(67, 97, 238);
+$color-primary-blue: rgb(72, 149, 239);
+
+.flex-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
